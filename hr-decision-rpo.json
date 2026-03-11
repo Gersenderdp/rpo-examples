@@ -1,1 +1,10 @@
 
+{
+  "context": "HR decision",
+  "decision": "Internal investigation outcome",
+  "evidence": [
+    "document_1.pdf",
+    "interview_transcript.txt"
+  ],
+  "hash": "b7e23ec29af22b0b4e41da31e868d572"
+}
